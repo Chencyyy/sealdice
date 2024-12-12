@@ -5,9 +5,8 @@ title = "d -云端内容示例"
 export = true
 visible = true
 options = [
-  "1 = 11/(45-1)*4",
-  "2 = -11+4-5+14",
-  "3 = 11*-4+51-4"
+  "zhen",
+  "j"
 ]
 # 开启云内容
 cloud_extra = true
