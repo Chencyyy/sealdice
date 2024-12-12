@@ -1,0 +1,19 @@
+[meta]
+title = "野兽牌堆-云端内容示例"
+
+["114514种论证"]
+export = true
+visible = true
+options = [
+  "1 = 11/(45-1)*4",
+  "2 = -11+4-5+14",
+  "3 = 11*-4+51-4"
+]
+# 开启云内容
+cloud_extra = true
+# 云内容与本地内容去重
+dictinct = true
+# 云内容链接
+options_urls = [
+  "https://github.com/Chencyyy/sealdice.git",
+]
