@@ -6,7 +6,7 @@ export = true
 visible = true
 options = [
   "zhen",
-  "j"
+  "j",
 ]
 # 开启云内容
 cloud_extra = true
