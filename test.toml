@@ -1,18 +1,22 @@
 [meta]
-title = "d -云端内容示例"
+title = "野兽牌堆"
+updateUrls = [
+  "https://ghp.ci/https://raw.githubusercontent.com/Chencyyy/sealdice/main/test.toml" # 此处填写你的更新链接
+]
 
-["114514种论证"]
+# 简单牌组表
+[decks]
+"快端上来罢" = [
+  "哼哼哼啊啊啊啊啊",
+  "你是一个一个一个牌堆结果"
+]
+
+# 复杂牌组
+["数字论证"]
 export = true
 visible = true
+aliases = [ "恶臭论证" ]
 options = [
-  "zhen",
-  "j",
-]
-# 开启云内容
-cloud_extra = true
-# 云内容与本地内容去重
-dictinct = true
-# 云内容链接
-options_urls = [
-  "https://api.github.com/Chencyyy/sealdice/blob/main/test.toml",
+  "114514",
+  "1919810",
 ]
