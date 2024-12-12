@@ -14,5 +14,5 @@ cloud_extra = true
 dictinct = true
 # 云内容链接
 options_urls = [
-  "https://github.com/Chencyyy/sealdice/blob/main/test.toml",
+  "https://api.github.com/Chencyyy/sealdice/blob/main/test.toml",
 ]
